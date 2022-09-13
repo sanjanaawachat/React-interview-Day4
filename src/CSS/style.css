@@ -1,0 +1,12 @@
+.btn{
+    background-color: red;
+    color: white;
+    border-color: white;
+    width: 150px;
+    height: 40px;
+}
+input{
+    width: 290px;
+    height: 20px;
+    
+}
